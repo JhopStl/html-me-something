@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgba(71,110,140,0.5);
+}
+
+header {
+    height: 70px;
+    background-color: #476E8C;
+    border-color: #375A72;
+    box-shadow: 0px 1px 1px rgba(0,0,0,0.35);
+    color: white;
+    padding-top:5px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+ 
+}
+
+main {
+    margin: auto;
+    background-color: rgba(71,110,140,0.5);
+}
+
+footer {
+    border-style: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: rgba(0,0,0,0.35);
+    padding: 10px 0px 0px 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.footerText {
+    font-size: 0.85em;
+    padding-bottom: -20px;
+}
+
+span{
+    font-size: 0.95em;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+#center {
+background-color: white;
+padding-bottom: 20px;
+padding-top: 20px;
+}
